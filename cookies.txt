@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.franchisedirect.com	TRUE	/	FALSE	1999999999	JSESSIONID	5DA2856974A17859B6620CAB67356B34
+www.franchisedirect.com	TRUE	/	FALSE	1999999999	auth.csrf	e7aa0f08-b0b6-4dd6-b253-abe345dfa472
+www.franchisedirect.com	TRUE	/	FALSE	1999999999	.StoreAnonymousUser	F4DFD79DF5F24F2D906C8650B0F3244C
+
